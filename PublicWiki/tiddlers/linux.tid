@@ -1,0 +1,10 @@
+created: 20201124134408833
+creator: Dyear
+modified: 20201124134442557
+modifier: Dyear
+tags: Index
+title: linux
+tmap.id: b6052306-f378-4476-b3fb-d4c3b917b9db
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

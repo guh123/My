@@ -1,0 +1,18 @@
+created: 20201124134451181
+creator: Dyear
+modified: 20201124135206215
+modifier: Dyear
+tags: linux
+title: Nvidia optimus
+tmap.id: bb76fc4a-78d0-4a41-ade4-4b8aeae5a108
+type: text/vnd.tiddlywiki
+
+!! Nvidia版本
+之前在archlinux安装nvidia驱动半天安装不上，结果发现卸载最新的驱动之后安装''nvidia-390xx''就可以使用了，看来是我的显卡太老了，最新已经不兼容了
+
+!! 笔记本双显卡切换方案
+# Bumblebee `optirun primusrun`
+
+
+
+# optimus-manager-qt

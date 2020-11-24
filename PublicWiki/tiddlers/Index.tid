@@ -1,0 +1,9 @@
+created: 20201124123637212
+creator: Dyear
+modified: 20201124134353235
+modifier: Dyear
+title: Index
+tmap.id: 33b28a1d-adf5-4829-a6d7-27987f6ae126
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
