@@ -1,0 +1,13 @@
+created: 20201124164319848
+creator: Dyear
+draft.of: tiddlywiki备份
+draft.title: tiddlywiki备份
+modified: 20201125011713735
+modifier: Dyear
+tags: Index
+title: Draft of 'tiddlywiki备份' by Dyear
+tmap.id: 44606466-40c4-466b-882a-138f4469c118
+type: text/vnd.tiddlywiki
+
+记得在备份之前要运行下面命令
+git config --bool branch.master.sync true
