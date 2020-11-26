@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://wiki.onetwo.ren/#:/home/runner/work/My/My/PublicWiki/tiddlers/1.txt</loc>
+		<loc>https://wiki.onetwo.ren/#:/home/runner/work/My/My/PublicWiki/tiddlers/5.txt</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -16,6 +16,12 @@
 		<lastmod>2020-11-24</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:MarkDown</loc>
+		<lastmod>2020-11-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Nvidia%2520optimus</loc>
@@ -44,6 +50,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:linux</loc>
 		<lastmod>2020-11-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:tiddlywiki%2520github备份</loc>
+		<lastmod>2020-11-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
