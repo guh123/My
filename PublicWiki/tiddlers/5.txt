@@ -1,0 +1,10 @@
+[
+    {
+        "created": "20201126135435292",
+        "text": "",
+        "type": "text/plain",
+        "title": "/home/dyear/Tid/My/PublicWiki/tiddlers/5.txt",
+        "tmap.id": "d3d00ee2-2fd6-4e65-a9a7-f90c44d38d8a",
+        "modified": "20201126135435292"
+    }
+]
